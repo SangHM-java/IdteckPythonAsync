@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ApplicationIcon />
+    <OutputType>Exe</OutputType>
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="IDTECK.SDK">
+      <HintPath>..\..\..\..\..\Program Files (x86)\IDTECK\SDK\XDC\IDTECK.SDK.dll</HintPath>
+    </Reference>
+    <Reference Include="IDTECK.SDK.iEDC">
+      <HintPath>..\..\..\..\..\Program Files (x86)\IDTECK\SDK\XDC\IDTECK.SDK.iEDC.dll</HintPath>
+    </Reference>
+    <Reference Include="IDTECK.SDK.iMDC">
+      <HintPath>..\..\..\..\..\Program Files (x86)\IDTECK\SDK\XDC\IDTECK.SDK.iMDC.dll</HintPath>
+    </Reference>
+    <Reference Include="OdinSdk.BaseLib">
+      <HintPath>..\..\..\..\..\Program Files (x86)\IDTECK\SDK\XDC\OdinSdk.BaseLib.dll</HintPath>
+    </Reference>
+    <Reference Include="OdinSdk.FormLib">
+      <HintPath>..\..\..\..\..\Program Files (x86)\IDTECK\SDK\XDC\OdinSdk.FormLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
