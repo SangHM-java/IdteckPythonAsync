@@ -1,0 +1,4 @@
+C:\Users\HoMinhSang\Desktop\IdteckLibrary\IdteckLibrary\obj\Debug\netstandard2.0\IdteckLibrary.csprojAssemblyReference.cache
+C:\Users\HoMinhSang\Desktop\IdteckLibrary\IdteckLibrary\obj\Debug\netstandard2.0\IdteckLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HoMinhSang\Desktop\IdteckLibrary\IdteckLibrary\obj\Debug\netstandard2.0\IdteckLibrary.AssemblyInfoInputs.cache
+C:\Users\HoMinhSang\Desktop\IdteckLibrary\IdteckLibrary\obj\Debug\netstandard2.0\IdteckLibrary.AssemblyInfo.cs
